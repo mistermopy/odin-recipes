@@ -1,1 +1,2 @@
 # odin-recipes
+My current project I believe is to setup a basic HTML Website. When I complete it, I will have demonstrated that I can assemble a webpage of elements, tags, attributes, and content to display basic text or images. I can also create relative links to other webpages or local images and absolute links to other websites or images online.
